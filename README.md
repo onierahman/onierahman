@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onierahman
+- 👋 Hi, I’m @onirahman
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning DFIR
 - 💞️ I’m looking to collaborate on SOC Analysis
